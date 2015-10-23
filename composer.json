@@ -1,5 +1,5 @@
 {
-    "name": "XEngine/database",
+    "name": "xengine/database",
     "description": "The Illuminate Database package.",
     "license": "MIT",
     "homepage": "http://laravel.com",
